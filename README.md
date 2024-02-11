@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Sargawand
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning BSC Computer science
+- 👀 I’m interested in Software development
+- 🌱 I Have completed BSC Computer science
 - 💞️ I’m looking to collaborate on ...
+- 💞️ I'm persving Python fullstack development course at SquadInfotech vashi.
 - 📫 How to reach me 9966526624
 
 <!---
