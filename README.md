@@ -3,7 +3,7 @@
 - 🌱 I Have completed BSC Computer science
 - 💞️ I’m looking to collaborate on ...
 - 💞️ I have complated Python fullstack development course at SquadInfotech vashi.
-- 💞️ I’m currently Working as Junior software Developer at ZP technologies.
+- 💞️ I’m currently Working as Junior software Developer at Kosqu.
 - 
 - 📫 How to reach me 9966526624
 
